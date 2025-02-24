@@ -1,8 +1,20 @@
 body {
   background-color: lightcoral;
+  padding: 1;
+  margin: 1;
+  min-height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
 }
 
 h1 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color: blue;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
 }

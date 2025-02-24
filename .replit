@@ -1,4 +1,6 @@
-modules = ["web"]
+entrypoint="tut1.html"
+hidden=[".config"]
+modules = ["web:v2-20230623-0b7a606"]
 run = "run"
 
 [nix]
