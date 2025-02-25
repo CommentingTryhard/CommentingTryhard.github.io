@@ -1,13 +1,23 @@
 body {
-  background-color: lightcoral;
-  padding: 1;
-  margin: 1;
-  min-height: 100vh;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-
+    background-color: lightcoral;
+    margin: 0; /* Remove default margin */
+    min-height: 100vh; /* Make the body take up full viewport height */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    text-align: center; /* Center text */
 }
+
+table {
+    margin: auto; /* Center the table horizontally */
+}
+
+form {
+    text-align: center; /* Center form elements */
+}
+
+
 
 h1 {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
