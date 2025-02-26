@@ -16,6 +16,20 @@ table {
     border-width: thin;
 }
 
+th {
+    margin: auto;
+    border: 1px;
+    border-style: solid;
+    border-width: thin;
+}
+
+tr {
+    margin: auto;
+    border: 1px;
+    border-style: solid;
+    border-width: thin;
+}
+
 form {
     text-align: center;
 }
