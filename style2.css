@@ -4,4 +4,8 @@
 
 body {
     font: medium;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
