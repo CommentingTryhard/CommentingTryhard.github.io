@@ -6,6 +6,8 @@ body {
     font: medium;
     font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
     background-color: bisque;
+    margin: 0;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
